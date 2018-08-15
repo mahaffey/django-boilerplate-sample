@@ -1,0 +1,11 @@
+django
+django-cors-headers
+django-environ
+django-extensions
+django-filter
+mysqlclient
+djangorestframework
+djangorestframework-jwt
+django-rest-auth
+django-allauth
+mod_wsgi
